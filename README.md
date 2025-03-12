@@ -1,1 +1,1 @@
-# trustco-solo
+# trustco
